@@ -13,5 +13,5 @@ A Pokemon challenge in which you must beat Eternatus in PokeRouge Classic mode w
 | One Shot | No save scumming whatsoever, if a server issue occurs then replay the fight in the exact same way up until that point. |
 | No Dupes | You can only have one Pokemon of any specific species/line in your team (including fused Pokemon)  |
 | Mad Scientist | You MUST fuse 2 of your Pokemon if the DNA Splicer is in the shop. |
-| Power Limiter | You cannot start the run with nor catch any Pokemon that is 580 BST or higher, Evolving/Mega Evolving/Gigantomaxing into one is fine.  |
+| Power Limiter | You cannot start the run with any Pokemon 580 BST or higher, catching or evolving into them mid-run is fine.  |
 | Plan Ahead | You may catch any Pokemon you like, even if it breaks the above rules such as Legendaries or a Shiny of a species you already own. But you cannot use it in battle and must store it in the PC as soon as possible.  |
